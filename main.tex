@@ -1,0 +1,46 @@
+\documentclass{article}
+
+\usepackage{mla13}
+
+\title{BioHacking \\
+\begin{large} 
+    Biological Hacking And The Future of Homo-Sapien
+\end{large} }	% Title for the paper
+
+\firstname{Najib}			% Author's first name
+\lastname{Ishaq}			% Author's last name
+\professor{Dr. Venkatasubramanian}		% Last Name of the professor
+\class{Social Issues in Computing}		% Name of the class
+\sources{references.bib}	% File holding all the sources
+
+\begin{document}
+% First create the title page on its own.
+\maketitlepage
+\newpage
+
+% Then create the table of contents on its own.
+% \tableofcontents
+% \newpage
+
+% Finally create the abstract on its own.
+\begin{abstract}
+    Abstract is written last.
+\end{abstract}
+\newpage
+
+% Paper content begins here.
+\makeheader	% Adds the MLA-Style information
+\maketitle	% Redefined to use MLA-Style
+
+% Put paper here.
+\input{source/introduction.tex}
+\input{source/background}
+\input{source/viewpoints}
+\input{source/opinion}
+\input{source/conclusion.tex}
+
+% Put the works-cited on a separate page.
+\newpage
+\makeworkscited
+
+\end{document}
