@@ -2,7 +2,7 @@
 
 Interview with Jamie Metzel. Book: Hacking Darwin
 
-16.45 The biotech and genetic revolutions are going to completely change our lives.
+<!-- 16.45 The biotech and genetic revolutions are going to completely change our lives. -->
 
 <!-- Specialists talk in a coded language to facilitate communication among themselves.
 But the technologies we are developing are going to have species-wide impacts.
@@ -25,10 +25,10 @@ Will our stories around these genetic modifications leading us to adaptive fears
 Or will we spend our time worrying about the wrong thing because some benign modification, because of the way that it is phrased, catches the public eye and causes a panic that shuts down the science?
 Can we figure out which fears are adaptive and which are maladaptive? -->
 
-Write three stories:
-    * the dystopian
-    * the utopian
-    * the impasse
+<!-- Write three stories:
+    the dystopian
+    the utopian
+    the impasse -->
 
 <!-- 28.00 We have many bugs in our genetic code.
 These cause our children to die from deadly genetic diseases.
@@ -52,11 +52,11 @@ But in the United States, where we have eliminated malaria, sickle-cell-anemia i
 Through embryo selection, we could select out the gene for sickle-cell anemia from our species, leaving us vulnerable to malaria.
 30.25 We have no idea what recessive traits we may be carrying that could help our species survive some threat we have not faced in recorded history. -->
 
-Once we start changing things, we will not stop.
+<!-- Once we start changing things, we will not stop.
 Columbus' arrival in the new world sparked a chain reaction that is going to this day.
 We cannot think of nature as separate from us and us as "screwing with nature".
 We are nature, nature is us and nature is always changing.
-This makes nature natural to hack and we homo-sapiens, with tool usage as our comparative advantage, are hackers.
+This makes nature natural to hack and we homo-sapiens, with tool usage as our comparative advantage, are hackers. -->
 
 <!-- 36.00 In China, the worlds first gene-edited babies were born in October 2018.
 It was announced by the biophysicist He Jiankui what two little gene-edited girls were born in China.
@@ -96,20 +96,20 @@ There is a cursor that is the guide RNA.
 There is a cutting enzyme, the most popular is CAS9.
 We usually make a double-stranded cut, like cutting something in a text editor and leaving it deleted.
 Or we can add something instead. -->
-Every day, there are not just stories of more applications of CRISPR but new types of gene-editing tools.
+<!-- Every day, there are not just stories of more applications of CRISPR but new types of gene-editing tools.
 We are very rapidly moving into a world where we will be able to edit our genomes at will.
 This introduces the concept induced biological variability.
 Today we expect that our next phone will be better and faster than the last.
 But we have this adherence to our biology that I am homo-sapien and my kids are homo-sapiens.
 The idea that we can rewrite our biology even though we intellectually understand that we went from a single-celled state to homo-sapien over 4 Billion years.
-This is a large change we will see over the 21st century.
+This is a large change we will see over the 21st century. -->
 
-Should we be playful, excited or terrified by this?
+<!-- Should we be playful, excited or terrified by this?
 We have been capable of gene editing for quite a while.
 Our new tools are just orders of magnitude more powerful, more precise, and less expensive in time and materials.
-<!-- We used to make genetic changes to crops not just by selective breeding but also by bombarding them with radiation.
-We found grapes without seeds and chose to make more of them. -->
-Now we are able to be much more targeted with the changes we can make.
+We used to make genetic changes to crops not just by selective breeding but also by bombarding them with radiation.
+We found grapes without seeds and chose to make more of them.
+Now we are able to be much more targeted with the changes we can make. -->
 
 <!-- We also have good reason to be terrified when talking about the future of human life.
 In our country we have many people who fled here from Nazism.
@@ -238,10 +238,10 @@ This is where we are blocked in terms of the theme of this essay.
 Can we use our new powers to find a graceful exit from this very powerful conundrum?
 Perhaps conversation is the only such portal. -->
 
-In the early 50s we unlocked two nuclei with fusion and the cell.
+<!-- In the early 50s we unlocked two nuclei with fusion and the cell.
 It is remarkable how little these discoveries have effected our lives.
 We still resemble our ancestors from thousands of years ago.
-We now stand on the verge of certain very dramatic changes.
+We now stand on the verge of certain very dramatic changes. -->
 
 <!-- There will be a shift in healthcare from our current model of generalized healthcare to personalized precision healthcare.
 Your doctor well need to know who you are.
@@ -269,21 +269,25 @@ Once we take conception outside of the human body then we will be able to apply 
 
 <!-- One fear is that we will make decisions about the future of our species based on what feel like eternal truths but are in fact transient fashions.
 If we asked people today, they would say that they want a kid with good health, who would live a long life, be intelligent, and maybe tall.
-These are traits that are fine to have and people who have them are thriving in our current environment.
+These are traits that are fine to hHacking
 But our genetic diversity is not just some nice-to-have thing.
 It is the sole survival mechanism of any species.
 This diversity that we have inherited over four billion years, we will have to choose it.
 We will have to identify what we mean by diversity and celebrate it.
 There are existential level risks from making our species less diverse. -->
 
-Not only that but now individual actors now have the power to wreak havoc on a scale previously only possible for nations.
+<!-- Not only that but now individual actors now have the power to wreak havoc on a scale previously only possible for nations.
 We are in the age of DIY bio-hacking.
 Technologies like CRISPR-CAS9 are going to be cheap enough to edit genomes in a highschool biology project.
 In late 2017/early 2018 a group of Canadian researchers used the tools of synthetic biology to create an active version of horsepox. as relative of smallpox.
 That was from a grant of 100,000 dollars.
 Today we could do it for 50,000 dollars and in five years, 5,000 dollars.
-With these bio-lego-bricks we will have the tools to remake life.
-Just as we have these tools to do good, we will have the potential to do great evil.
+With these bio-legove the dial a little in the direction of utopian or a little in the direction of dystopian.
+We need to infuse the conversations about values and norms into the development of these powerful technologies.
+We have examples of this from the Nuclear Non-Proliferation Treaty and international treaties around biological weapons.
+This story is going to play out in utopian ways and in dystopian ways side-by-side.
+We are on a J-curve and our technology is going to become ever more powerful.
+The sophistication 
 
 <!-- National cultures around these technologies also differ.
 We need to worry about some of the national cultures that are the most gung-ho about exploiting these technologies.
@@ -307,17 +311,19 @@ While we need to be competitive on these technologies, we cannot lose our humani
 This is a societal race and it is not that the country with the first genetically enhanced human wins the race.
 The country that is first to figure out how to use the resources of its society as a whole to realize its objectives, whatever those may be, is the country that wins the race. -->
 
-There is often no good place to stand on with these issues and we struggle to communicate these to the world.
-We now have so much information about ourselves and we have so many social needs that our technological needs and our social needs are at risk of clashing in a profoundly destructive manner before we can figure this out.
+<!-- There is often no good place to stand on with these issues and we struggle to communicate these to the world.
+We now have so much information about ourselves and we have so many social needs that our technological needs and our social needs are at risk of clashing in a profoundly destructive manner before we can figure this out. -->
 
-We each can move the dial a little in the direction of utopian or a little in the direction of dystopian.
+<!-- We each can move the dial a little in the direction of utopian or a little in the direction of dystopian.
+We need to infuse the conversations about values and norms into the development of these powerful technologies.
+We have examples of this from the Nuclear Non-Proliferation Treaty and international treaties around biological weapons.
+This story is going to play out in utopian ways and in dystopian ways side-by-side.
+We are on a J-curve ave the dial a little in the direction of utopian or a little in the direction of dystopian.
 We need to infuse the conversations about values and norms into the development of these powerful technologies.
 We have examples of this from the Nuclear Non-Proliferation Treaty and international treaties around biological weapons.
 This story is going to play out in utopian ways and in dystopian ways side-by-side.
 We are on a J-curve and our technology is going to become ever more powerful.
-The sophistication of our tools is growing.
-
-<!-- We can moralize all we want but this going to play out, ironically, according to a system of selective pressures.
+The sophistication all we want but this going to play out, ironically, according to a system of selective pressures.
 Selection is not really only about biology.
 Anything that has the three properties of variability, heritability, and differential success is going to behave in a darwinian fashion.
 The social interpretation of this is that variability constitutes the human value of diversity, heritability has to do with what we call privilege and differential success has to do with inequality.
@@ -332,3 +338,7 @@ What we can say is that we have, over many thousands of years, developed ethical
 At the very least, we need to be fighting to make sure that our best individual and collective values are integrated into the decision-making process.
 
 "We are gods but for the wisdom." -->
+rite three stories:
+    * the dystopian
+    * the utopian
+    * the impasse
