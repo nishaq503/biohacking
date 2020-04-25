@@ -37,14 +37,14 @@ There are ~10,000 identified and ~5,000 well categorized.
 Since we know what genes to look for, we can identify them in fertilized embryos during IVF.
 This can be done by sequencing some placenta cells.
 With the cost of sequencing going towards negligibility, this is becoming increasingly doable.
-For example, out the the, say 10, fertilized embryos in a lab, we can tell if a child, if carried to term, will die of TASACS.
-In parts of europe where the government pays for pre-natal screening, of the people that receive the diagnosis at three months that their baby is going to have down syndrome, 97% choose to abort.
+For example, out the the, say 10, fertilized embryos in a lab, we can tell if a child, if carried to term, will die of Tay-Sachs.
+<!-- In parts of europe where the government pays for pre-natal screening, of the people that receive the diagnosis at three months that their baby is going to have down syndrome, 97% choose to abort. -->
 From this we can impute that almost no one will choose to implant the one-in-ten embryo if they knew that the child would suffer from such a genetic disease.
 
 The scary side of this is that we will then make choices about our children beyond simple health.
 We will know the probabilities of personality traits, intelligence, height, etc and will choose according to the cultural and economic norms of the day.
 For example, sickle-cell-anemia.
-If you carry two ALLEALES of the trait, you will likely die.
+If you carry two alleles of the trait, you will likely die.
 However, if you are a recessive carrier then you have much higher resistance against malaria at some cost to hemoglobin's oxygen carrying ability.
 This trait emerged in areas with high threat of malaria as a genetic response.
 But in the United States, where we have eliminated malaria, sickle-cell-anemia is seen as a disease.
@@ -58,15 +58,15 @@ We are nature, nature is us and nature is always changing.
 This makes nature natural to hack and we homo-sapiens, with tool usage as our comparative advantage, are hackers.
 
 36.00 In China, the worlds first gene-edited babies were born in October 2018.
-It was announced by the biophysicist Hu-Jong Quay what two little gene-edited girls were born in China.
-First in China this was lauded as a Chinese triumph but there was swift international backlash.
+It was announced by the biophysicist He Jiankui what two little gene-edited girls were born in China.
+First in China, in People's Daily, this was lauded as a Chinese triumph but there was swift international backlash.
 This was controversial for a number of reasons:
     * the concent of the parents was mis-informed.
     * he did not get approval from the hospital.
 The target mutation was a gene called CCR5.
 The father had HIV while the mother did not.
 In such a case in a country with advanced medicine such as China, or the United States, there are many ways for a couple such as this to have a child who will not have HIV.
-Hu-Jong Quay tried to modify the CCR5 gene to make it similar to what some europeans have, where they have two disrupted copies, that make them more susceptible to the West Nile virus but increased resistance to HIV.
+He Jiankui tried to modify the CCR5 gene to make it similar to what some europeans have, where they have two disrupted copies, that make them more susceptible to the West Nile virus but increased resistance to HIV.
 He was not trying to solve an existing problem but was trying to create an enhancement.
 A few months later a report came out that mice with the same mutation were doing better with mazes than mice without it.
 This sparked concerns that the two babies were engineered to be smarter.
@@ -76,7 +76,7 @@ This is to say that our knowledge of genetics is very limited and we do not know
 
 The age of human genetic modification has begun.
 The third Chinese genetically-engineered baby has probably already been born.
-The russian scientist Dennis Rebrikov has announced that he has five parents lined up.
+<!-- The russian scientist Dennis Rebrikov has announced that he has five parents lined up. -->
 This is going to from 2 to 3 to 8 and exponentially grow from there.
 Within a decade, we will have thousands of genetically engineered babies.
 
@@ -92,13 +92,13 @@ To understand these tradeoffs, we will need a far greater understanding of genet
 Our future is going to involve embryo selection, which will likely move us towards the end of procreative sex.
 We will then have the ability to use stem cells to grow a functionally unlimited number of eggs, in InVitro-Gameto-Genesis.
 
-KRYSPR is a gene-editing tool that can be thought of as analogous to a text editor.
+CRISPR is a gene-editing tool that can be thought of as analogous to a text editor.
 The genome is a string of letters.
 There is a cursor that is the guide RNA.
 There is a cutting enzyme, the most popular is CAS9.
 We usually make a double-stranded cut, like cutting something in a text editor and leaving it deleted.
 Or we can add something instead.
-Every day, there are not just stories of more applications of KRYSPR but new types of gene-editing tools.
+Every day, there are not just stories of more applications of CRISPR but new types of gene-editing tools.
 We are very rapidly moving into a world where we will be able to edit our genomes at will.
 This introduces the concept induced biological variability.
 Today we expect that our next phone will be better and faster than the last.
@@ -114,10 +114,10 @@ We found grapes without seeds and chose to make more of them.
 Now we are able to be much more targeted with the changes we can make.
 
 We also have good reason to be terrified when talking about the future of human life.
-In our country we have many people who fled here from Nazism.
-If we asked the Nazis what they were doing, they would have said that they were implementing Darwinism.
-We had Nuremberg trials about human experimentation.
-To make an extreme understatement, many Jewish communities were on the losing end of a eugenics experiment writ-large, gone mad.
+<!-- In our country we have many people who fled here from Nazism. -->
+<!-- If we asked the Nazis what they were doing, they would have said that they were implementing Darwinism. -->
+<!-- We had Nuremberg trials about human experimentation. -->
+<!-- To make an extreme understatement, many Jewish communities were on the losing end of a eugenics experiment writ-large, gone mad. -->
 And yet we are uncomfortable with the fact that eugenics does not really mean anything.
 Mate selection is another form of genetic selection and if you decide that dinner and a movie is eugenics then you have drawn the line at a very wrong level.
 On the other hand, we can also not have a free-for-all, let a thousand flowers bloom and see what the experiments produce.
@@ -139,7 +139,7 @@ We can solve one disease and learn from that how to solve another disease.
 Dinner and a movie is a slippery slope to love and marriage.
 
 We need to find a good place in the middle.
-On the one hand Hu-Jong Quay is a villain and we have seen the danger of Nazi Germany.
+On the one hand He Jiankui is a villain and we have seen the danger of Nazi Germany.
 On the other hand we are excited about the idea of freeing people from the risk of breast cancer and perhaps even enhancing cognitive ability.
 But is such sobriety even possible?
 These technologies are getting cheaper and more powerful.
@@ -165,7 +165,7 @@ This is one small step away from the data on abortions of down-syndrome babies.
 This is **not** a normative statement saying to parents that their down-syndrome children have less of a right to exist.
 We already know, from the abortion data, that if people have the choice then in most cases they will not choose to implant the embryo with down syndrome.
 
-In '53 when the double-helix structure was elucidated by Watson and Crick and then in '63 when the genetic code was figured out by Marshall and Nurenburg, that group of people was shocked that we only pretended to care out our identity in the from of these letters, this computer code if you will.
+In '53 when the double-helix structure was elucidated by Watson and Crick and then in '63 when the genetic code was figured out by Marshall and Nuremberg, that group of people was shocked that we only pretended to care out our identity in the from of these letters, this computer code if you will.
 We never really accepted what they found.
 Every time they started talking about identity and characteristics, they found that we were so attached to our pre-genetic understanding of ourselves that we would not give it up.
 We will fight anyone tooth-and-nail that would try to tell us that our characteristics were really a consequence of information technology as developed by natural and sexual selection.
@@ -182,7 +182,7 @@ We would run our prey to exhaustion in the hunter-gatherer era.
 Yet there is nothing that most of us can do to be a champion marathon runner.
 Between 1897, when we started keeping records of the Boston Marathon, and 1987 there were no winners of the Boston Marathon from either Kenya or Ethiopia.
 Since 1987, while it has not exactly been total domination, a disproportionately large number of the champions are from a very small group of people from the same valley in Kenya and Ethiopia.
-They are from one tribe, the Kelengins, in Kenya of 4 million people, and even then from one subtribe, the Nandi subtribe, of 1 million people.
+They are from one tribe, the Kelengin, in Kenya of 4 million people, and even then from one subtribe, the Nandi subtribe, of 1 million people.
 This is genetics.
 While we all have a genetic range of possibility and we should each aspire to be on the top end of that range, whatever that means in the context of our potential, but if I do not have the genetics to be the worlds faster marathoner, or swimmer, or abstract mathematician, I am simply not going to get there.
 
@@ -281,7 +281,7 @@ There are existential level risks from making our species less diverse.
 
 Not only that but now individual actors now have the power to wreak havoc on a scale previously only possible for nations.
 We are in the age of DIY bio-hacking.
-Technologies like KRYSPR-CAS9 are going to be cheap enough to edit genomes in a highschool biology project.
+Technologies like CRISPR-CAS9 are going to be cheap enough to edit genomes in a highschool biology project.
 In late 2017/early 2018 a group of Canadian researchers used the tools of synthetic biology to create an active version of horsepox. as relative of smallpox.
 That was from a grant of 100,000 dollars.
 Today we could do it for 50,000 dollars and in five years, 5,000 dollars.
