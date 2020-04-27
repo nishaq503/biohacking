@@ -1,13 +1,11 @@
 # BioHacking Notes
 
-Interview with Jamie Metzel. Book: Hacking Darwin
-
-<!-- 16.45 The biotech and genetic revolutions are going to completely change our lives. -->
+<!-- The biotech and genetic revolutions are going to completely change our lives. -->
 
 <!-- Specialists talk in a coded language to facilitate communication among themselves.
 But the technologies we are developing are going to have species-wide impacts.
 We need to communicate with the public and make sure that we develop the science and the ethics in concert.
-23.00 If the science is dissociated from the public discourse around the science, it can kill the science.
+If the science is dissociated from the public discourse around the science, it can kill the science.
 We saw this with GMOs, formerly Recombinant DNA, where the scientists were responsible, went to Asilomar, and established principles in the 1970s.
 The principles were realized but because there was no public engagement from the start, there is still a lot of fear among the public and the science has not realized its potential. -->
 
@@ -20,7 +18,7 @@ We could instead let this emerge in much the same way as IVF where, by the time 
 <!-- I believe that we are talking about technologies that are everyone's business and we need to respect each other enough to have this conversation out in the open.
 We cannot afford to make the same mistake that we did in the beginning of the GMO era.
 
-23.30 There are plenty of reasons to be afraid.
+There are plenty of reasons to be afraid.
 Will our stories around these genetic modifications leading us to adaptive fears which cause us to come up with wise restrictions for how we do our science and engineering?
 Or will we spend our time worrying about the wrong thing because some benign modification, because of the way that it is phrased, catches the public eye and causes a panic that shuts down the science?
 Can we figure out which fears are adaptive and which are maladaptive? -->
@@ -30,7 +28,7 @@ Can we figure out which fears are adaptive and which are maladaptive? -->
     the utopian
     the impasse -->
 
-<!-- 28.00 We have many bugs in our genetic code.
+<!-- We have many bugs in our genetic code.
 These cause our children to die from deadly genetic diseases.
 Our elderly suffer from dementia and alzheimer's.
 First in the crosshair are the single-gene-mutation disorders Mendelian Disorders (get examples).
@@ -50,7 +48,7 @@ However, if you are a recessive carrier then you have much higher resistance aga
 This trait emerged in areas with high threat of malaria as a genetic response.
 But in the United States, where we have eliminated malaria, sickle-cell-anemia is seen as a disease.
 Through embryo selection, we could select out the gene for sickle-cell anemia from our species, leaving us vulnerable to malaria.
-30.25 We have no idea what recessive traits we may be carrying that could help our species survive some threat we have not faced in recorded history. -->
+We have no idea what recessive traits we may be carrying that could help our species survive some threat we have not faced in recorded history. -->
 
 <!-- Once we start changing things, we will not stop.
 Columbus' arrival in the new world sparked a chain reaction that is going to this day.
@@ -58,12 +56,12 @@ We cannot think of nature as separate from us and us as "screwing with nature".
 We are nature, nature is us and nature is always changing.
 This makes nature natural to hack and we homo-sapiens, with tool usage as our comparative advantage, are hackers. -->
 
-<!-- 36.00 In China, the worlds first gene-edited babies were born in October 2018.
+<!-- In China, the worlds first gene-edited babies were born in October 2018.
 It was announced by the biophysicist He Jiankui what two little gene-edited girls were born in China.
 First in China, in People's Daily, this was lauded as a Chinese triumph but there was swift international backlash.
 This was controversial for a number of reasons:
-    the consent of the parents was mis-informed.
-    he did not get approval from the hospital.
+    * the consent of the parents was mis-informed.
+    * he did not get approval from the hospital.
 The target mutation was a gene called CCR5.
 The father had HIV while the mother did not.
 In such a case in a country with advanced medicine such as China, or the United States, there are many ways for a couple such as this to have a child who will not have HIV.
@@ -81,7 +79,7 @@ The russian scientist Dennis Rebrikov has announced that he has five parents lin
 This is going to from 2 to 3 to 8 and exponentially grow from there.
 Within a decade, we will have thousands of genetically engineered babies. -->
 
-<!-- 39.30 We do not know what trade-offs we have made through the course of our evolution.
+<!-- We do not know what trade-offs we have made through the course of our evolution.
 To borrow from finance, we might be on a interior point of the efficient frontier.
 We might be able to take two things that are involved in a trade-off and optimize for both of them to reach a point of the efficient frontier where the trade-off starts to bind.
 So far we understand some the variables involved in our genetics but we do not understand most of them.
@@ -95,8 +93,8 @@ The genome is a string of letters.
 There is a cursor that is the guide RNA.
 There is a cutting enzyme, the most popular is CAS9.
 We usually make a double-stranded cut, like cutting something in a text editor and leaving it deleted.
-Or we can add something instead. -->
-<!-- Every day, there are not just stories of more applications of CRISPR but new types of gene-editing tools.
+Or we can add something instead.
+Every day, there are not just stories of more applications of CRISPR but new types of gene-editing tools.
 We are very rapidly moving into a world where we will be able to edit our genomes at will.
 This introduces the concept induced biological variability.
 Today we expect that our next phone will be better and faster than the last.
@@ -337,8 +335,9 @@ We cannot accurately image where this will go over hundreds or thousands of year
 What we can say is that we have, over many thousands of years, developed ethical codes that help us live better lives.
 At the very least, we need to be fighting to make sure that our best individual and collective values are integrated into the decision-making process.
 
-"We are gods but for the wisdom." -->
+"We are gods but for the wisdom." 
 rite three stories:
     * the dystopian
     * the utopian
-    * the impasse
+    * the impasse 
+-->
